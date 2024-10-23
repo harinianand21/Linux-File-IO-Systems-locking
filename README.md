@@ -81,11 +81,11 @@ return 0;
 ```
 ## OUTPUT
 
-##C program that illustrates files copying
+# C program that illustrates files copying
 
 ![326678919-bebfc9f4-d20f-46e1-bf0b-7d5a439b2eea](https://github.com/user-attachments/assets/2fd30671-5e50-44ac-84bd-603452ee6cda)
 
-##C program that illustrates files locking
+# C program that illustrates files locking
 
 ![326678949-46738263-a92d-48e1-84ed-2fd056f31c5c](https://github.com/user-attachments/assets/9d8f328d-c8a0-41e5-a587-6d582613105a)
 
